@@ -8,7 +8,7 @@
 自作サービスは私自身が課題と思っていることを解決するサービスを作りました。
 開発理由や解決できる課題、開発するなかでの楽しかったこと、苦労したことはリリースブログに記載しています。
 技術要素についてはレポジトリに記載しています。
-- [リリースブログ]()
+- [リリースブログ](https://ichikawaaa.hatenablog.com/entry/release-kabucalculator)
 - [レポジトリ](https://github.com/makiichikawa/kabucalculator)
 
 ## 社会人での頑張りについて
